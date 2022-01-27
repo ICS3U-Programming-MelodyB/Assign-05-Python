@@ -57,10 +57,10 @@ def main():
             if radius_user_float <= 0:
                 print("Please enter a number greater than 0!")
                 print()
-                print("Please enter a valid height")
+                print("Please enter a valid radius")
                 continue
             else:
-                # gets second number from user
+                # gets height from user
                 height_user = input("Enter the height: ")
                 try:
                     height_user_float = float(height_user)
