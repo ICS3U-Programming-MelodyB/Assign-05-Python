@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # Created by: Melody Berhane
 # Created on: Jan 26, 2022
-# This program asks the user for the unit, length, height and
-# width of the pyramid. It then
-# calculates and displays the surface area and
-# volume.
+# This program asks the user for the unit, radius and height 
+# It then calculates and displays the surface area and
+# volume of a cylinder and cone.
 import math
 
 
